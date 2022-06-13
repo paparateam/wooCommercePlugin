@@ -1,0 +1,144 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Papara Woocommerce Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-18 12:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: papara_woocommerce"
+
+#: woocommerce-papara-gateway.php:185
+msgid "</b>"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Accept payments on your Wordpress Woocommerce sites with Papara account."
+msgstr ""
+
+#: woocommerce-papara-gateway.php:169
+msgid "Api Key"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:134
+msgid ""
+"Api Key Required For Papara Gateway! You may disabled Gateway for prevent "
+"notifications"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:243
+msgid "Communication with Papara API Failed"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:250
+msgid "Communication with Papara API Failed "
+msgstr ""
+
+#: woocommerce-papara-gateway.php:164
+msgid "Description:"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:154
+msgid "Enable Papara Payment Module."
+msgstr ""
+
+#: woocommerce-papara-gateway.php:184
+msgid "Enable Papara Payment Secret Key Verification. (Live ONLY!)"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:158
+msgid "Enable Test Mode"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:152 woocommerce-papara-gateway.php:182
+msgid "Enable/Disable"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:171
+msgid "Given to Merchant by Papara"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.papara.com"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:160
+msgid "In order to make tests check box"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:178
+msgid "In order to secure payments, can be found on Papara Merchant Account"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:250
+msgid "Incorrect Response received."
+msgstr ""
+
+#. Author of the plugin
+msgid "PAPARA"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:118
+msgid "Papara"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:255
+msgid "Papara API succeeded false"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:119
+msgid "Papara Payment Gateway Plug-in for WooCommerce"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:54
+msgid "Papara Payment Gateway Plugin needs PHP Version 7+!"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:42
+msgid "Papara Payment Gateway Plugin needs Woocommerce Active And Version 6+!"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:30
+msgid "Papara Payment Gateway Plugin needs WordPress Version 5+!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Papara Woocommerce Gateway"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:167
+msgid "Pay securely with Papara Payment System and Secure Servers."
+msgstr ""
+
+#: woocommerce-papara-gateway.php:121
+msgid "Pay with Papara"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:176
+msgid "Secret Key"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:363
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:157
+msgid "Test Mode"
+msgstr ""
+
+#: woocommerce-papara-gateway.php:166
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#. URI of the plugin
+msgid "www.papara.com"
+msgstr ""
